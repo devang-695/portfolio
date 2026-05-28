@@ -97,7 +97,7 @@ export const experiences = [
   {
     title: "Software Developer",
     job: "Developed 3 Projects",
-    date: "2023-2025",
+    date: "2023-2026",
     contents: [
       "Developed and deployed two cross-platform mobile apps using React Native, boosting user engagement by 30% in first 3 months through faster onboarding and intuitive UI.",
       "Architected backend services with Node.js, Express, and Firebase, enabling real-time group expense tracking for 1,000+ monthly active users.",
