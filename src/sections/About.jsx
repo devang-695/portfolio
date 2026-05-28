@@ -19,7 +19,7 @@ const About = () => {
           <div className="z-10">
             <p>Hi, I'm Devang Kushwah</p>
             <p>
-              Over the last 2 year, I developed my frontend and backend dev
+              Over the last 3+ year, I developed my frontend and backend dev
               skills to deliveer dynamic and responsive software and web
               application
             </p>
